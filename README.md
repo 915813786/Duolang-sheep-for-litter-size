@@ -1,1 +1,1 @@
-Whole genome sequences of 299 Duolang sheep for litter size
+Whole genome sequences of 297 Duolang sheep for litter size
